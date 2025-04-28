@@ -17,8 +17,8 @@
 
 
 // Definiciones de WiFi
-#define WIFI_SSID      "KylaRueda 2.4GHZ"
-#define WIFI_PASS      "KaylaRM4424@"
+#define WIFI_SSID      // SSID
+#define WIFI_PASS      // Password
 #define MAX_RETRY      5
 
 // Definición de MQTT
